@@ -1,8 +1,6 @@
 # Virtual environment
 quantum_env/
-venv/
-.env/
-.env.bak/
+
 
 # Python cache files
 __pycache__/
